@@ -23,11 +23,19 @@ JavaScript for dynamic temperature conversion.
 
 **📂 Project Structure**
 
+├── assets/          # Folder for images and other assets
+│   └── screenshot.png  # Screenshot of the application
+
 ├── index.html       # Main HTML file
 
-├── style.css        # CSS file for styling the webpage
 
-└── script.js        # JavaScript file for temperature conversion logic
+├── README.md        # Documentation file for the project
+
+
+├── script.js        # JavaScript file for temperature conversion logic
+
+
+└── style.css        # CSS file for styling the webpage
 
 **💡 How to Use**
 
@@ -43,7 +51,7 @@ Click the Convert button to see the result instantly.
 
 ![Temperature Converter Screenshot]
 
-(assets/screenshot.png)
+assets/screenshot.png
 
 
 
