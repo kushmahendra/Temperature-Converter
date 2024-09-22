@@ -8,6 +8,7 @@ document.getElementById('convert-btn').addEventListener('click', function () {
       return;
     }
   
+    
     switch (unit) {
       case 'Celsius':
         result = [`${(degree * 9 / 5 + 32).toFixed(2)} °F`, `${(degree + 273.15).toFixed(2)} K`];
