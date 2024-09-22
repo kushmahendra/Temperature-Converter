@@ -3,7 +3,7 @@ Welcome to the Temperature Converter project! This is a sleek, responsive web ap
 
  **🚀 Live Demo**
  
-Check out the live version of the website here: Temperature Converter Live Link
+**🌐 👉** Check out the live version of the website here:  https://kushmahendra.github.io/Temperature-Converter/
 
 **📜 Features**
 
@@ -41,7 +41,9 @@ Click the Convert button to see the result instantly.
 
 **🖼️ Screenshots**
 
-![Temperature Converter Screenshot](assets/screenshot.png)
+![Temperature Converter Screenshot]
+
+(assets/screenshot.png)
 
 
 
